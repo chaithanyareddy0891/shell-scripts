@@ -7,5 +7,5 @@ to run shell scripts as below:
 sh <script-name>
 bash <script-name>
 if you are in the same folder where file exist can continue as below:
-./<script-name>
+./<script-name>  -- one should have execute permmision to execute the file
 
